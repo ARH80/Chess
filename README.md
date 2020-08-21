@@ -1,3 +1,2 @@
 # Chess
-
-by ahmadreza hamzei
+simple chess game using java
